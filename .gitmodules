@@ -1,0 +1,3 @@
+[submodule "docker/submodules/lua-resty-aws-sign"]
+	path = docker/submodules/lua-resty-aws-sign
+	url = https://github.com/tubame0505/lua-resty-aws-sign.git
